@@ -3,9 +3,9 @@
     "title": "Subtext Studios",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "48",
+    "logo": "/images/subtext-logo.png",
+    "logo_width": "60",
+    "logo_height": "36",
     "logo_text": "Subtext Studios"
   },
   "settings": {
